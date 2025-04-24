@@ -1,0 +1,24 @@
+{
+  "name": "backend_retake_ca1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashash1111/backend_retake_ca1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/yashash1111/backend_retake_ca1/issues"
+  },
+  "homepage": "https://github.com/yashash1111/backend_retake_ca1#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
